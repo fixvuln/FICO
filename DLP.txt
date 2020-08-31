@@ -1,0 +1,3 @@
+    Names (US) 	"abu ali ", "remark son ", "remark son ", "ali hassan ", "abu ahmad ", "abu ahmad ", "abu ahmad ", "mohammed hamza ", "hassan deputy ", "saab hassan "
+    Medical Information 	"lithium", "kasai", "celestin", "physical violence", "pers", "societies", "prosthesis", "dob", "crimean", "ethiopian"
+    Social Security Numbers (US) 	"247.01.0001", "209.01.0001", "008.01.0001", "156-92-9858", "548-91-5411", "137.01.0005", "106261543", "094629366", "101423404", "002327881"
